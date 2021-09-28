@@ -1,0 +1,4 @@
+.list-view:focused > .virtual-flow > .clipped-container > .sheet > .list-cell:focused {
+
+    -fx-background-color: -fx-background;
+}

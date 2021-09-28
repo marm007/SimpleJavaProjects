@@ -1,0 +1,51 @@
+{
+	"folders": [
+		{
+			"name": "01 FigureAreaPerimeterCalculator",
+			"path": "01 FigureAreaPerimeterCalculator"
+		},
+		{
+			"name": "02 FulfillmentCenterSimulator",
+			"path": "02 FulfillmentCenterSimulator"
+		},
+		{
+			"name": "03 AlgorithmsTestingAndImplementation",
+			"path": "03 AlgorithmsTestingAndImplementation"
+		},
+		{
+			"name": "04 SwingCalculator",
+			"path": "04 SwingCalculator"
+		},
+		{
+			"name": "05 JavaFXKanban",
+			"path": "05 JavaFXKanban"
+		},
+		{
+			"name": "06 ThreadCanvasMonteCarlo",
+			"path": "06 ThreadCanvasMonteCarlo"
+		},
+		{
+			"name": "07 SixDegreesOfSeparation",
+			"path": "07 SixDegreesOfSeparation"
+		},
+		{
+			"name": "08 SpringBootImageEditorAPI",
+			"path": "08 SpringBootImageEditorAPI"
+		},
+		{
+			"name": "09 SpringBootSurveyAPI",
+			"path": "09 SpringBootSurveyAPI"
+		},
+		{
+			"name": "10 SpringBootQuartzWeatherAPI",
+			"path": "10 SpringBootQuartzWeatherAPI"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+		]
+	},
+	
+}
