@@ -57,6 +57,7 @@ public class Controller implements Initializable {
 
             if (!isCancelled) {
                 GraphicsContext gc = canvas.getGraphicsContext2D();
+                gc.clearRect(0, 0, canvas.getWidth(), canvas.getHeight());
                 task = new DrawerTask(max, gc);
                 progressBar.progressProperty().bind(task.progressProperty());
             } else {
